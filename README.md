@@ -65,18 +65,16 @@
 
   <section id="galleria">
     <h2>Immagini</h2>
-    <p>Ecco un Immagine di Softair</p>
+    <p>Immagini delle nostre attività verranno caricate presto.</p>
   </section>
- <img src="c:\Users\buffo\Desktop\Softair.jpg" width="750" height="400" alt="Allenamenti
- 
 
   <section id="testimonianze">
     <h2>Testimonianze dei Membri</h2>
     <blockquote>
-      "Entrare nei The Kings ha cambiato il mio modo di vivere lo sport. Una vera famiglia!" -EmanueleB.
+      "Entrare nei The Kings ha cambiato il mio modo di vivere lo sport. Una vera famiglia!" - EmanueleB.
     </blockquote>
     <blockquote>
-      "Esperienza, adrenalina e rispetto reciproco. Un team incredibile!" -RoccoB.
+      "Esperienza, adrenalina e rispetto reciproco. Un team incredibile!" - RoccoB.
     </blockquote>
   </section>
 
@@ -86,10 +84,10 @@
     Chiunque abbia compiuto 13 anni (con autorizzazione dei genitori se minorenne).</p>
 
     <p><strong>Devo avere il mio equipaggiamento?</strong><br />
-    ogni membro presente nei the kings dovra' procurarsi l'equipaggiamento (se possibile anche con i soldi degli sponsor) /p>
+    Ogni membro presente nei The Kings dovrà procurarsi l'equipaggiamento (se possibile anche con i soldi degli sponsor).</p>
 
     <p><strong>È pericoloso?</strong><br />
-    Seguiamo tutte le norme di sicurezza, ed è obbligatorio l’uso di protezioni. (se non usate potrebbero comportare alti rischi) </p>
+    Seguiamo tutte le norme di sicurezza, ed è obbligatorio l’uso di protezioni. (Se non usate, potrebbero comportare alti rischi.)</p>
   </section>
 
   <section id="contatti">
@@ -118,16 +116,14 @@
     <p>
       Siamo attivi nel territorio calabrese e da tempo ci impegniamo nella promozione del Softair come disciplina sportiva fondata sui valori del fair play, della strategia tattica, della preparazione fisica e della collaborazione di squadra.
     </p>
-    <p>
-      Alleghiamo alla presente:
-      <ul>
-        <li>Copia dell’atto costitutivo e dello statuto dell’associazione;</li>
-        <li>Elenco aggiornato dei membri tesserati;</li>
-        <li>Copia dell’affiliazione CONI (se già disponibile);</li>
-        <li>Certificati medici in corso di validità per tutti i partecipanti;</li>
-        <li>Modulo di iscrizione/adesione alle gare (se previsto).</li>
-      </ul>
-    </p>
+    <p>Alleghiamo alla presente:</p>
+    <ul>
+      <li>Copia dell’atto costitutivo e dello statuto dell’associazione;</li>
+      <li>Elenco aggiornato dei membri tesserati;</li>
+      <li>Copia dell’affiliazione CONI (se già disponibile);</li>
+      <li>Certificati medici in corso di validità per tutti i partecipanti;</li>
+      <li>Modulo di iscrizione/adesione alle gare (se previsto).</li>
+    </ul>
     <p>
       Certi di un vostro positivo riscontro, restiamo a disposizione per qualsiasi ulteriore documentazione o chiarimento.
     </p>
@@ -139,22 +135,3 @@
   </footer>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
